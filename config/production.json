@@ -1,0 +1,6 @@
+{
+    "mongoURI":"{your Mongo URI}",
+    "jwtSecret":"secret",
+    "githubClientId":"{clientId}",
+    "githubSecret":"{secretkey}"
+}
